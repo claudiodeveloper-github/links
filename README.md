@@ -12,7 +12,7 @@ Este é um projeto simples e objetivo desenvolvido para centralizar minhas redes
 
 ---
 
-### Link de Acesso
+### Link de Acesso.
 
 Você pode visualizar o projeto rodando em tempo real clicando no link abaixo:
 👉 [Acesse minha página de links](https://claudiodeveloper-github.github.io/links/)
